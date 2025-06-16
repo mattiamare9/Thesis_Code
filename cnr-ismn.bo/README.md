@@ -3,6 +3,10 @@ This repo contains the code written during the MDMC internship.
 > ⚠️ **Note:** 
 See https://github.com/Trog-404/Fabrication-utilities for the NOMAD plugin used in this facility.
 
+> ⚠️ **Note:** 
+See 10.5281/zenodo.15678583 for the thesis work to find more details.
+
+
 
 # official.py
 
